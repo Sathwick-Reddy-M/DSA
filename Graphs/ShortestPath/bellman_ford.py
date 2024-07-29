@@ -40,7 +40,7 @@ def bellman_ford_with_negative_cycle_detection(graph, start):
     return distances
 
 
-# Shortest Path First Algorithm
+# Shortest Path Faster Algorithm
 # Function for Graphs with no negative cycles
 def spfa(graph, start):
     n = len(graph)

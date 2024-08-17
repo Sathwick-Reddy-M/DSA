@@ -1,6 +1,6 @@
 # Shortest Path
 
-## Just Curious
+## Info
 
 1. **What is the time complexity for brute force path finding?**
 

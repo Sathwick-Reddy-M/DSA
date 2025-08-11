@@ -1,4 +1,4 @@
-from graph_utils import create_directed_graph_from_edges
+from Graphs.graph_utils import create_directed_graph_from_edges
 
 
 def floyd_warshall(graph):

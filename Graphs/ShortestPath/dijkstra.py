@@ -1,4 +1,4 @@
-from graph_utils import (
+from Graphs.graph_utils import (
     create_undirected_graph_from_edges,
     create_directed_graph_from_edges,
 )

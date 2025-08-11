@@ -13,5 +13,15 @@ This repository is dedicated to documenting some of the key algorithms that I ut
 
   - Dijkstra's
   - Bellman Ford
-    - Shortest Path First Algorithm
+    - Shortest Path Faster Algorithm
   - Floyd-Warshall
+
+## How to run
+
+Run modules from the repository root using Python’s -m flag and the module path.
+
+Example: Bellman-Ford (and SPFA) demo
+
+```bash
+python3 -m Graphs.ShortestPath.bellman_ford
+```
